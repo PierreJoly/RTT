@@ -1,0 +1,16 @@
+#navBar {
+    font-size: 20px;
+}
+
+.link {
+    text-decoration: none;
+    color: darkred;
+}
+
+.link:visited {
+
+}
+
+.link:hover {
+    cursor: pointer;
+}

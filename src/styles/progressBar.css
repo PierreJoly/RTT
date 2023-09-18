@@ -1,0 +1,10 @@
+.progress-bar {
+    height: 50px;
+    width: 800px;
+    background-color: darkgrey;
+}
+
+.progress {
+    height: inherit;
+    background-color: green;
+}
